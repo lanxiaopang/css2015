@@ -178,7 +178,7 @@ nav ul li a {
 	font-size: 1.875em; /*30 ÷ 16 */  
 	color: black; 
 }
-nav ul li:nth-child(odd) a {
+nav ul li:nth-child(2n+1) a {
 	color: fe0208;
 	color: hsl(359, 99%, 50%);
 }
